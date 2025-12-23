@@ -8,7 +8,7 @@ import type { Restaurante } from '../../types';
 import Footer from '../../components/Footer';
 
 const Hero = styled.div`
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/public/hero.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/hero.jpg');
   background-size: cover;
   background-position: center;
   padding: 80px 0;
