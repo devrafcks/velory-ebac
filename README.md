@@ -1,8 +1,9 @@
 # Velory
+<img width="1862" height="862" alt="image" src="https://github.com/user-attachments/assets/9294b7d1-0303-4556-b7e8-fe204613d60d" />
 
-A **Velory** é uma plataforma de e-commerce gastronômico de alta sofisticação, desenvolvida para conectar usuários aos melhores estabelecimentos locais.
+A Velory foi desenvolvida como o projeto final do curso Engenheiro Front-End da EBAC (Escola Britânica de Artes Criativas e Tecnologia). O objetivo do projeto foi aplicar de forma prática e integrada todos os conceitos avançados aprendidos durante a formação.
 
----
+## Deploy: https://velory-ebac.vercel.app/
 
 ## Funcionalidades
 
