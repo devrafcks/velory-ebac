@@ -53,7 +53,7 @@ export default function Header() {
   return (
     <HeaderContainer>
       <NavCard>
-        <Link to="/"><Logo src="/public/velory.png" alt="Velory Logo" /></Link>
+        <Link to="/"><Logo src="/velory.png" alt="Velory Logo" /></Link>
         <CartInfo onClick={() => dispatch(toggleCart())}>
           {items.length} - produto(s) <span>no carrinho</span>
         </CartInfo>
